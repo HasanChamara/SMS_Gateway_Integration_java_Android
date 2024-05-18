@@ -8,7 +8,7 @@ import java.net.URL;
 public class SmsSender {
 
     public static String sendSms(String newtel, String message1) {
-        String userId = "26674";
+        String userId = "";
         String apiKey = "";
         String senderId = "";
 
