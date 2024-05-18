@@ -9,8 +9,8 @@ public class SmsSender {
 
     public static String sendSms(String newtel, String message1) {
         String userId = "26674";
-        String apiKey = "9NYYdMvIowgunUt5OFC1";
-        String senderId = "PCS Ktk";
+        String apiKey = "";
+        String senderId = "";
 
         try {
             // Construct the URL
